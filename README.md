@@ -1,2 +1,3 @@
 The source for [padpaddle](http://li276-143.members.linode.com/), our entry for [node knockout 2011](http://nodeknockout.com/teams/fat-guys-with-guns). Written in 48 hours by [Kristofor Selden](https://github.com/kselden), [Amit](https://github.com/meetamit), [Jason Malcolm](https://github.com/Jaciones), and [Matthew Sorensen](https://github.com/matthewSorensen). Very alpha! Amazingly alpha! Horridly alpha! Be sure to use TWO fingers on the controller screen - if it's green, it's registering your points.
 
+We depend on Express, [box2dweb](http://code.google.com/p/box2dweb/), and socket.io. Our copyright (as outlined in LICENSE) doesn't extend to any of these dependencies, especially public/javascripts/Box2D.min.js and lib/Box2d.min.js.
