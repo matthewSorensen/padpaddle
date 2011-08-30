@@ -1,0 +1,2 @@
+The source for [padpaddle](http://li276-143.members.linode.com/), our entry for [node knockout 2011](http://nodeknockout.com/teams/fat-guys-with-guns). Written in 48 hours by [Kristofor Selden](https://github.com/kselden), [Amit](https://github.com/meetamit), [Jason Malcolm](https://github.com/Jaciones), and [Matthew Sorensen](https://github.com/matthewSorensen). Very alpha! Amazingly alpha! Horridly alpha! Be sure to use TWO fingers on the controller screen - if it's green, it's registering your points.
+
